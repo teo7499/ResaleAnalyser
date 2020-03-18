@@ -15,4 +15,5 @@ You can run this programme if you have SBT to compile and build. I'll post the c
 CSV lines are processed line by line in load() function, with exception handling done with index generated.
 
 <b>Future Updates?</b>
-This script is hardcoded to read from the provided CSV file from data.gov. If I get the time, I could reuse code from my DataPivot repo to potj pivot the data and handle varying column number/sizes.
+
+This script is hardcoded to read from the provided CSV file from data.gov. If I get the time, I could reuse code from my DataPivot repo to pivot the data and handle varying column number/sizes.
